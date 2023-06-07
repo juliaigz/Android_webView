@@ -1,7 +1,12 @@
 # Android_webView
 ### This is an Android Studio project made in java and xml, using fragments, to show an url. 
 
+The XML of the main activity
 ![image](https://github.com/juliaigz/Android_webView/assets/40221707/47f0f955-7a5b-4aac-8313-85f594452964)
+
+The XML of the fragment
+![image](https://github.com/juliaigz/Android_webView/assets/40221707/ab5749c1-a1a4-466f-b27e-81c6e27dab6e)
+
 
 we use one Fragment and a mainActivity
 ![image](https://github.com/juliaigz/Android_webView/assets/40221707/1ebe2018-83d9-4563-a781-807fb7833be5)
